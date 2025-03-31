@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python software developer with a focus on creating AI-integrated applications.<br>I enjoy using public APIs and web scraping to gather data and build tools that automate real-world tasks.
+Python software developer with a focus on creating AI-integrated applications.<br>I enjoy using public APIs and web scraping to gather data and build tools that automate real-world tasks.<br>Strong interest in deploying and fine-tuning LLM's for inference tasks, as well as training neural networks for creative applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ktgk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kasper.knudsen@gmail.com) 
